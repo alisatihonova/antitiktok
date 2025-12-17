@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">antitiktok</string>
+    <string name="start_swipe_detection">Start Swipe Detection</string>
+    <string name="stop_swipe_detection">Stop Swipe Detection</string>
+</resources>
